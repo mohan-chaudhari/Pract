@@ -1,0 +1,46 @@
+{
+    "id": "2",
+    "name": "BRO2",
+    "description": "A good bro.",
+    "image": "https://brotoken-dev.s3.amazonaws.com/images/2.png",
+    "attributes": [
+        {
+            "trait_type": "Flair",
+            "value": "Grampa Pocketwatch Green"
+        },
+        {
+            "trait_type": "Habitat",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Legs",
+            "value": "Green and Grey Socks"
+        },
+        {
+            "trait_type": "Personality",
+            "value": "Red Handlebar Moustache"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Cherry Red Sweater"
+        },
+        {
+            "trait_type": "Skin Tone",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Pose",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ],
+    "animation_url": "",
+    "nftId": "2"
+}
